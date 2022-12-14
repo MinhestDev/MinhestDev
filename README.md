@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MinhestDev</h1>
 <h3 align="center">UX/UI Design & Dev</h3>
 
-- 🔭 I’m currently working on **freelancer**
+- 🔭 I’m currently working on **Hai Ha Ds**
 
 - 🌱 I’m currently learning **Machine Learning**
 
